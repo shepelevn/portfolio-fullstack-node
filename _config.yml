@@ -1,0 +1,32 @@
+title: Николай Щепелев
+description: Моё портфолио
+baseurl: "/portfolio-php"
+url: https://shepelevn.github.io
+
+theme: cvless
+
+# site settings
+taglong: PHP-разработчик
+tagshort: PHP-разработчик
+
+# author settings
+author:
+  name: Николай Щепелев
+  email: shepelevnikolay97@gmail.com
+photo: assets/images/personal-photo.jpg
+address: 
+phone: '+7 904 509 32 12'
+phone-styled: '+7(904)509-32-12'
+
+# social media links
+social:
+  github: shepelevn
+  gmail: shepelevnikolay97@gmail.com
+  hh: https://hh.ru/resume/d700226eff0d1db28c0039ed1f5a4434646a32
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md

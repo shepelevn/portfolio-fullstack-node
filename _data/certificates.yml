@@ -1,0 +1,34 @@
+- course: 'Профессия Веб-разработчик'
+  image: 'web-developer-skillbox.png'
+  alt: 'Сертификат Профессия Веб- разработчик'
+  link: 'https://links.skillbox.ru/c/2zI/Loph/Mb1mHOa3NDcdkWVw6dZfhQ/FAv/HwhA/F/c1fa0e73'
+
+- course: 'PHP-фреймворк Laravel'
+  image: 'laravel-skillbox.png'
+  alt: 'Сертификат PHP-фреймворк Laravel'
+  link: 'https://links.skillbox.ru/ce/2zI/bfmw/ipYJpLPhjIqHVSPfMQR3Ua/KV/HwhA/F/aa63eed7?u=qinDxik86GfCtLVwx_W-dLzPd9Qwxi2S6_HTxUnUtgVSv_NGlLTJqgHplLNO6OxSkDttN_fTlTpFkhB7ALN6NbNotmvGnUNssIp9vJnqv5QwxLZU'
+
+- course: 'PHP-разработчик. Базовый уровень'
+  image: 'php-basic-skillbox.png'
+  alt: 'Сертификат PHP-разработчик. Базовый уровень'
+  link: 'https://links.skillbox.ru/ce/2zI/bfmw/zH6vTi2lhhL6JnkHV7z7k3/KV/HwhA/F/1492f7f1?u=qinDxik86GfCtLVwx_W-dLzPd9Qwxi2S6_HTxUnUtgVSv_NGlLTJqgHplLNO6OxSIsnDsb-FqDnaqI7BkhTplUlHtD4GsITDsgnOIBn2kmQwxLZU'
+
+- course: 'Node.js'
+  image: 'node-skillbox.png'
+  alt: 'Сертификат Node.js'
+  link: 'https://links.skillbox.ru/ce/2zI/bfmw/8nM9de2dLIKczhT4cJbZkQ/KV/HwhA/F/3924599f?u=qinDxik86GfCtLVwx_W-dLzPd9Qwxi2S6_HTxUnUtgVSv_NGlLTJqgHplLNO6OxStsTGqmT_HBM9xo-pIgWUqiT-HO2SsOxOj5FEEiThv_vwxLZU'
+
+- course: 'JavaScript-фреймворк React.js'
+  image: 'react-skillbox.png'
+  alt: 'Сертификат JavaScript-фреймворк React.js'
+  link: 'https://links.skillbox.ru/ce/2zI/bfmw/xt6CQa2GlIKT-nBrnyNpuy/KV/HwhA/F/34ec5d9a?u=qinDxik86GfCtLVwx_W-dLzPd9Qwxi2S6_HTxUnUtgVSv_NGlLTJqgHplLNO6OxSa52wq5-wsNTVtgxzqUMGxLoblIHga_TPEiToaNt1aD3wxLZU'
+
+- course: 'TypeScript'
+  image: 'typescript-skillbox.png'
+  alt: 'Сертификат TypeScript'
+  link: 'https://links.skillbox.ru/ce/2zI/bfmw/YSOxs97RRbEtkHvlqnBNly/KV/HwhA/F/a0a3dd49?u=qinDxik86GfCtLVwx_W-dLzPd9Qwxi2S6_HTxUnUtgVSv_NGlLTJqgHplLNO6OxStI-5smpXkTTkELpgvgtndsFzxsFOki-alD-8a_zMx5IwxLZU'
+
+- course: 'Веб-вёрстка «Продвинутый уровень»'
+  image: 'web-layout-advanced-skillbox.png'
+  alt: 'Сертификат Веб-вёрстка «Продвинутый уровень»'
+  link: 'https://links.skillbox.ru/c/2zI/LopT/Mb1mHOa3NDcdkWVw6dZfhQ/FAv/HwhA/F/b89d99dd'

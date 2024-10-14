@@ -1,0 +1,73 @@
+:root {
+  --primary: #137bce;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.hh-icon {
+  margin: 0 1.1em;
+}
+
+.home-links {
+  margin-top: 40px;
+}
+
+.home-links-list {
+  padding-left: 0;
+}
+
+.about-personal-photo {
+  width: 400px;
+  max-width: 100%;
+  border-radius: 40px;
+}
+
+.home-button {
+  width: 100%;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.home-button:hover, .home-button:active, .home-button:focus-visible
+{
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--primary);
+  background-color: var(--primary);
+}
+
+.certificates-list {
+  padding-left: 0;
+}
+
+.certificate-image {
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.certificate-title {
+  margin-top: 0;
+}
+
+@media (min-width: 576px) {
+  .certificate-image {
+    max-width: 200px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .certificate-image {
+    max-width: 250px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .certificate-image {
+    max-width: 300px;
+  }
+}
