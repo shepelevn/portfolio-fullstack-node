@@ -6,8 +6,6 @@ published: false
 
 ## TODO
 
-* Add icons
-* Test on the phone
 * Update portfolio link on CVs
 * Move the code from `temporary` folder
 
