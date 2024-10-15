@@ -1,13 +1,13 @@
 title: Николай Щепелев
 description: Моё портфолио
-baseurl: '/portfolio-node'
+baseurl: '/portfolio-fullstack-node'
 url: 'https://shepelevn.github.io'
 
 theme: cvless
 
 # site settings
-taglong: Backend-разработчик (Node.js)
-tagshort: Backend-разработчик (Node.js)
+taglong: Fullstack-разработчик (Node.js)
+tagshort: Fullstack-разработчик (Node.js)
 
 # author settings
 author:
@@ -22,7 +22,7 @@ phone-styled: '+7(904)509-32-12'
 social:
   github: shepelevn
   gmail: shepelevnikolay97@gmail.com
-  hh: https://hh.ru/resume/ea6c22d0ff0d2960fb0039ed1f6475567a5153
+  hh: https://hh.ru/resume/dfa32a8aff0d2a74170039ed1f586a48676332
 
 # build settings
 permalink: pretty
