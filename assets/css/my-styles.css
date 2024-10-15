@@ -36,12 +36,13 @@ a {
   color: var(--primary);
 }
 
-.home-button:hover, .home-button:active, .home-button:focus-visible
+.home-button:hover, .home-button:active, .home-button:focus-visible, .home-button:focus
 {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-color: var(--primary);
   background-color: var(--primary);
+  color: var(--bs-btn-hover-color);
 }
 
 .certificates-list {
