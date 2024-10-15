@@ -7,7 +7,7 @@ ul {
 }
 
 .hh-icon {
-  margin: 0 1.1em;
+  margin: 0 0.7em;
 }
 
 .home-links {
@@ -54,9 +54,21 @@ ul {
   margin-top: 0;
 }
 
+@media (max-width: 450px) {
+  .particles-title {
+    font-size: 2em;
+  }
+}
+
 @media (min-width: 576px) {
   .certificate-image {
     max-width: 200px;
+  }
+}
+
+@media (min-width: 768px) {
+  .hh-icon {
+    margin: 0 1.1em;
   }
 }
 

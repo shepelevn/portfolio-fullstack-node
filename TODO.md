@@ -6,7 +6,6 @@ published: false
 
 ## TODO
 
-* Deploy
 * Test on the phone
 * Update portfolio link on CVs
 * Move the code from `temporary` folder

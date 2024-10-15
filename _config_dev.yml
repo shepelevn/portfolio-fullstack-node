@@ -1,4 +1,2 @@
 baseurl: '/portfolio-php'
-url: 'https://localhost'
-
-
+url: 'https://192.168.0.18'
