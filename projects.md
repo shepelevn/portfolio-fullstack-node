@@ -35,7 +35,7 @@ title: Портфолио
 
 ## Трекер задач с таймером по методу "Pomodoro" написанный на React
 
-![Скриншот "pomodoro_box"](/assets/images/projects/pomodoro-box.png)
+![Скриншот "pomodoro_box"]({{ site.baseurl }}/assets/images/projects/pomodoro-box.png)
 
 **Роль**: Разработал приложение полностью.
 
@@ -51,7 +51,7 @@ title: Портфолио
 
 ## Веб-сайт для прослушивания музыки
 
-![Скриншот "Play_now"](/assets/images/projects/play-now.png)
+![Скриншот "Play_now"]({{ site.baseurl }}/assets/images/projects/play-now.png)
 
 **Роль**: Разработал клиентскую часть приложения.
 
@@ -64,7 +64,7 @@ title: Портфолио
 
 ## Банковская система для хранения и операций над криптовалютными средствами
 
-![Скриншот "Coin."](/assets/images/projects/coin.png)
+![Скриншот "Coin."]({{ site.baseurl }}/assets/images/projects/coin.png)
 
 **Роль**: Разработал клиентскую часть приложения.
 
@@ -78,7 +78,7 @@ title: Портфолио
 
 ## CRM система
 
-![Скриншот CRM системы](/assets/images/projects/skb-crm.png)
+![Скриншот CRM системы]({{ site.baseurl }}/assets/images/projects/skb-crm.png)
 
 **Роль**: Разработал клиентскую часть приложения.
 
@@ -91,7 +91,7 @@ title: Портфолио
 
 ## Интернет магазин по продаже мебели
 
-![Скриншот "SitDownPls"](/assets/images/projects/sit-down-pls.png)
+![Скриншот "SitDownPls"]({{ site.baseurl }}/assets/images/projects/sit-down-pls.png)
 
 **Роль**: Создал вёрстку сайта.
 
@@ -104,7 +104,7 @@ title: Портфолио
 
 ## Сайт веб-галерея
 
-![Скриншот "Blanchard"](/assets/images/projects/blanchard.png)
+![Скриншот "Blanchard"]({{ site.baseurl }}/assets/images/projects/blanchard.png)
 
 **Роль**: Создал вёрстку сайта.
 

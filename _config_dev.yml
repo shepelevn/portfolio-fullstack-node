@@ -1,2 +1,4 @@
-baseurl: ""
-url: https://localhost
+baseurl: '/portfolio-php'
+url: 'https://localhost'
+
+

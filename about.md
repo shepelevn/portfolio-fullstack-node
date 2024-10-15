@@ -5,7 +5,7 @@ title: Обо Мне
 
 # Обо Мне
 
-<img class="about-personal-photo" src="/assets/images/personal-photo.jpg" alt="Моё фото">
+<img class="about-personal-photo" src="{{ site.baseurl }}/assets/images/personal-photo.jpg" alt="Моё фото">
 
 Привет, меня зовут Николай Щепелев. Я бэкенд-разработчик на PHP.
 Недавно окончил курсы на платформе Skillbox и сейчас активно ищу работу.
