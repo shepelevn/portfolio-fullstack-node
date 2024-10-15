@@ -6,6 +6,10 @@ ul {
   list-style-type: none;
 }
 
+a {
+  overflow-wrap: break-word;
+}
+
 .hh-icon {
   margin: 0 0.7em;
 }
