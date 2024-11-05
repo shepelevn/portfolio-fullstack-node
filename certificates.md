@@ -12,7 +12,6 @@ title: Сертификаты
             <img class="certificate-image flex-fill" src="{{ site.baseurl }}/assets/images/certificates/{{ certificate.image }}" alt="{{ certificate.alt }}">
             <div class="flex-fill">
             <h2 class="certificate-title">{{ certificate.course }}</h2>
-                <a href="{{ certificate.link }}">Ссылка на сертификат</a>
             </div>
         </li>
         {% endfor %}
