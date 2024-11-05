@@ -6,7 +6,6 @@ published: false
 
 ## TODO
 
-* Add the rest of the certificates
 * Try out the accordion for the projects
 
 ## Pages
