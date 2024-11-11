@@ -1,7 +1,8 @@
 title: Николай Щепелев
-description: Моё портфолио
+description: Портфолио с проектами Fullstack-разработчика (PHP) - Николай Щепелев
 baseurl: '/portfolio-fullstack-php'
 url: 'https://shepelevn.github.io'
+image: '/assets/images/preview-image.png'
 
 theme: cvless
 
