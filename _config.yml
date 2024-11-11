@@ -2,7 +2,7 @@ title: Николай Щепелев
 description: Портфолио с проектами Fullstack-разработчика (Node.js) - Николай Щепелев
 baseurl: '/portfolio-fullstack-node'
 url: 'https://shepelevn.github.io'
-image: '/assets/images/preview-image.png'
+image: '/assets/images/preview-node.png'
 
 theme: cvless
 
