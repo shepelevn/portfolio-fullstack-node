@@ -23,4 +23,8 @@
   <link rel="stylesheet" href="{{ '/assets/css/my-styles.css' | prepend: site.baseurl | prepend: site.url }}">
 
   {% seo title=false %}
+
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.image }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.image }}">
+
 </head>
