@@ -31,3 +31,6 @@ exclude:
   - docker-compose.yml
   - LICENSE
   - README.md
+  - vendor/
+gems:
+  - jekyll-seo-tag
